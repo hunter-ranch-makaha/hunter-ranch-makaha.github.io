@@ -1,0 +1,42 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Hunter Ranch Makaha",
+    "description": "",
+    "home_page_url": "https://hunter-ranch-makaha.github.io/site",
+    "feed_url": "https://hunter-ranch-makaha.github.io/site/feed.json",
+    "user_comment": "",
+    "icon": "https://hunter-ranch-makaha.github.io/site/media/website/Pub.png",
+    "author": {
+        "name": "Larisa Hunter"
+    },
+    "items": [
+        {
+            "id": "https://hunter-ranch-makaha.github.io/site/rental-prices-and-options.html",
+            "url": "https://hunter-ranch-makaha.github.io/site/rental-prices-and-options.html",
+            "title": "Rental Prices &amp; Options",
+            "summary": "Hunter Ranch Makaha is available for rentals EVERY OTHER Friday, Saturday and&hellip;",
+            "content_html": "<p class=\"msg msg--highlight \">Hunter Ranch Makaha is available for rentals <strong>EVERY OTHER</strong> Friday, Saturday and Sunday. Full dates are available on our calendar page. Reservations are first come first serve and are confirmed once a deposit has been made. We require a 50% deposit 24 hours after booking to confirm your rental. Deposits by check will be confirmed once cleared.</p>\n<h1> </h1>\n<h1>All Bronze Rentals include:</h1>\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Parking for up to 10 cars along the front and sides</li>\n<li>Use of the outdoor bar/eating area</li>\n<li>Use of the pool </li>\n<li>Use of the entire yard including the bathroom, manmade beach, sunlounging areas etc. within the fence border.</li>\n</ol>\n<p class=\"msg msg--success\">Full Day Rental: $1.000.00 for a group up to 30 people</p>\n<p class=\"msg msg--success\">Half Day Rentals: $500.00 for a group up to 30 people</p>\n<hr>\n<h1>All Gold Rentals Include:</h1>\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Parking for up to 10 cars along the front and sides</li>\n<li>Use of the outdoor bar/eating area</li>\n<li>Use of the pool</li>\n<li>Use of the entire yard including the bathroom, manmade beach, sunlounging areas etc. within the fence border.</li>\n<li>Use of the tiny house for changing/preping or staging of bridal parties or vip guests</li>\n</ol>\n<hr>\n<table style=\"border-collapse: collapse; width: 120.513%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 19.1852%;\"> </td>\n<td style=\"width: 26.6406%;\">HOURS</td>\n<td style=\"width: 12.9227%;\">Gold</td>\n<td style=\"width: 41.2531%;\">GROUP SIZE</td>\n</tr>\n<tr>\n<td style=\"width: 19.1852%;\">Full Day Rental</td>\n<td style=\"width: 26.6406%;\">9:00am-8:00pm</td>\n<td style=\"width: 12.9227%;\"><strong>$1,800</strong></td>\n<td style=\"width: 41.2531%;\"><strong>Gold: 100</strong></td>\n</tr>\n<tr>\n<td style=\"width: 19.1852%;\">Half Day</td>\n<td style=\"width: 26.6406%;\">9:00am-12:00 and 1:00pm to 4:00pm</td>\n<td style=\"width: 12.9227%;\"><strong>$900</strong></td>\n<td style=\"width: 41.2531%;\"><strong>Gold: 100</strong></td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "Larisa Hunter"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-06-08T14:04:57-10:00",
+            "date_modified": "2023-06-08T14:11:22-10:00"
+        },
+        {
+            "id": "https://hunter-ranch-makaha.github.io/site/about-makaha-valley-ranch.html",
+            "url": "https://hunter-ranch-makaha.github.io/site/about-makaha-valley-ranch.html",
+            "title": "About Makaha Valley Ranch",
+            "summary": "We are the Hunter Family, a Canadian transplant to Hawaii who moved&hellip;",
+            "content_html": "\n  <p>\n    We are the Hunter Family, a Canadian transplant to Hawaii who moved to the island three years ago in search of a dream, Hawaii delivered that dream and we settled in a house cradled in Makaha Valley surrounded by lush mountains.\n  </p>\n\n  <p>\n    The property features: a full working bar with sink, pool, tiny house with full bathroom/changing area, an outdoor bathroom, outdoor shower, tons of natural plants including fresh coconuts, oranges, variegated lemons (pink lemons), standard and finger limes, papaya, strawberry guava and standard mango.\n  </p>\n\n  <p>\n    We can comfortably park approximately 8 cars at the front and up to 10 along the sides and back of the property. The side and back parking is recommended for small cars only as it is a narrow road and rocky.\n  </p>\n\n  <p>\n    With over 1/1.5 acres of space there is tons of room to host the event of your dreams. A short walk to Makaha Beach, the property is in an ideal setting for events of any size.\n  </p>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      \n    </div>\n  </div>",
+            "author": {
+                "name": "Larisa Hunter"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-06-08T13:20:09-10:00",
+            "date_modified": "2023-06-08T13:20:09-10:00"
+        }
+    ]
+}

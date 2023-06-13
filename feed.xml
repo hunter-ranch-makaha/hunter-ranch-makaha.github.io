@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Hunter Ranch Makaha</title>
+    <link href="https://hunter-ranch-makaha.github.io/site/feed.xml" rel="self" />
+    <link href="https://hunter-ranch-makaha.github.io/site" />
+    <updated>2023-06-08T14:11:22-10:00</updated>
+    <author>
+        <name>Larisa Hunter</name>
+    </author>
+    <id>https://hunter-ranch-makaha.github.io/site</id>
+
+    <entry>
+        <title>Rental Prices &amp; Options</title>
+        <author>
+            <name>Larisa Hunter</name>
+        </author>
+        <link href="https://hunter-ranch-makaha.github.io/site/rental-prices-and-options.html"/>
+        <id>https://hunter-ranch-makaha.github.io/site/rental-prices-and-options.html</id>
+
+        <updated>2023-06-08T14:11:22-10:00</updated>
+            <summary>
+                <![CDATA[
+                    Hunter Ranch Makaha is available for rentals EVERY OTHER Friday, Saturday and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="msg msg--highlight ">Hunter Ranch Makaha is available for rentals <strong>EVERY OTHER</strong> Friday, Saturday and Sunday. Full dates are available on our calendar page. Reservations are first come first serve and are confirmed once a deposit has been made. We require a 50% deposit 24 hours after booking to confirm your rental. Deposits by check will be confirmed once cleared.</p>
+<h1> </h1>
+<h1>All Bronze Rentals include:</h1>
+<ol style="list-style-type: lower-alpha;">
+<li>Parking for up to 10 cars along the front and sides</li>
+<li>Use of the outdoor bar/eating area</li>
+<li>Use of the pool </li>
+<li>Use of the entire yard including the bathroom, manmade beach, sunlounging areas etc. within the fence border.</li>
+</ol>
+<p class="msg msg--success">Full Day Rental: $1.000.00 for a group up to 30 people</p>
+<p class="msg msg--success">Half Day Rentals: $500.00 for a group up to 30 people</p>
+<hr>
+<h1>All Gold Rentals Include:</h1>
+<ol style="list-style-type: lower-alpha;">
+<li>Parking for up to 10 cars along the front and sides</li>
+<li>Use of the outdoor bar/eating area</li>
+<li>Use of the pool</li>
+<li>Use of the entire yard including the bathroom, manmade beach, sunlounging areas etc. within the fence border.</li>
+<li>Use of the tiny house for changing/preping or staging of bridal parties or vip guests</li>
+</ol>
+<hr>
+<table style="border-collapse: collapse; width: 120.513%;" border="1">
+<tbody>
+<tr>
+<td style="width: 19.1852%;"> </td>
+<td style="width: 26.6406%;">HOURS</td>
+<td style="width: 12.9227%;">Gold</td>
+<td style="width: 41.2531%;">GROUP SIZE</td>
+</tr>
+<tr>
+<td style="width: 19.1852%;">Full Day Rental</td>
+<td style="width: 26.6406%;">9:00am-8:00pm</td>
+<td style="width: 12.9227%;"><strong>$1,800</strong></td>
+<td style="width: 41.2531%;"><strong>Gold: 100</strong></td>
+</tr>
+<tr>
+<td style="width: 19.1852%;">Half Day</td>
+<td style="width: 26.6406%;">9:00am-12:00 and 1:00pm to 4:00pm</td>
+<td style="width: 12.9227%;"><strong>$900</strong></td>
+<td style="width: 41.2531%;"><strong>Gold: 100</strong></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About Makaha Valley Ranch</title>
+        <author>
+            <name>Larisa Hunter</name>
+        </author>
+        <link href="https://hunter-ranch-makaha.github.io/site/about-makaha-valley-ranch.html"/>
+        <id>https://hunter-ranch-makaha.github.io/site/about-makaha-valley-ranch.html</id>
+
+        <updated>2023-06-08T13:20:09-10:00</updated>
+            <summary>
+                <![CDATA[
+                    We are the Hunter Family, a Canadian transplant to Hawaii who moved&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    We are the Hunter Family, a Canadian transplant to Hawaii who moved to the island three years ago in search of a dream, Hawaii delivered that dream and we settled in a house cradled in Makaha Valley surrounded by lush mountains.
+  </p>
+
+  <p>
+    The property features: a full working bar with sink, pool, tiny house with full bathroom/changing area, an outdoor bathroom, outdoor shower, tons of natural plants including fresh coconuts, oranges, variegated lemons (pink lemons), standard and finger limes, papaya, strawberry guava and standard mango.
+  </p>
+
+  <p>
+    We can comfortably park approximately 8 cars at the front and up to 10 along the sides and back of the property. The side and back parking is recommended for small cars only as it is a narrow road and rocky.
+  </p>
+
+  <p>
+    With over 1/1.5 acres of space there is tons of room to host the event of your dreams. A short walk to Makaha Beach, the property is in an ideal setting for events of any size.
+  </p>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
+</feed>

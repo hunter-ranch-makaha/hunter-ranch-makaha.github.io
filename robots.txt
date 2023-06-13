@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hunter-ranch-makaha.github.io/site/sitemap.xml
