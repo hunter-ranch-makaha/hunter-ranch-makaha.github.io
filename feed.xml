@@ -3,7 +3,7 @@
     <title>Hunter Ranch Makaha</title>
     <link href="https://hunter-ranch-makaha.github.io/site/feed.xml" rel="self" />
     <link href="https://hunter-ranch-makaha.github.io/site" />
-    <updated>2023-06-21T15:31:58-10:00</updated>
+    <updated>2023-06-26T13:50:56-10:00</updated>
     <author>
         <name>Larisa Hunter</name>
     </author>
@@ -17,15 +17,26 @@
         <link href="https://hunter-ranch-makaha.github.io/site/photo-gallery.html"/>
         <id>https://hunter-ranch-makaha.github.io/site/photo-gallery.html</id>
 
-        <updated>2023-06-21T15:31:58-10:00</updated>
-            <summary>
-                <![CDATA[
-                     
-                ]]>
-            </summary>
+        <updated>2023-06-26T13:50:56-10:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images"> </div></div>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://hunter-ranch-makaha.github.io/site/media/posts/5/gallery/IMG_1750.png" data-size="2049x1536"><img loading="lazy" src="https://hunter-ranch-makaha.github.io/site/media/posts/5/gallery/IMG_1750-thumbnail.png" alt="Pool View" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://hunter-ranch-makaha.github.io/site/media/posts/5/gallery/IMG_1780.png" data-size="1536x2049"><img loading="lazy" src="https://hunter-ranch-makaha.github.io/site/media/posts/5/gallery/IMG_1780-thumbnail.png" alt="Apple Bananas" width="768" height="1025"></a></figure>
+<figure class="gallery__item"><a href="https://hunter-ranch-makaha.github.io/site/media/posts/5/gallery/IMG_1809.png" data-size="2049x1536"><img loading="lazy" src="https://hunter-ranch-makaha.github.io/site/media/posts/5/gallery/IMG_1809-thumbnail.png" alt="Outdoor bar/poolside eating area, poolhouse" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://hunter-ranch-makaha.github.io/site/media/posts/5/gallery/IMG_1815.png" data-size="2049x1536"><img loading="lazy" src="https://hunter-ranch-makaha.github.io/site/media/posts/5/gallery/IMG_1815-thumbnail.png" alt="Night time view of pool" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://hunter-ranch-makaha.github.io/site/media/posts/5/gallery/IMG_1826.png" data-size="1536x2049"><img loading="lazy" src="https://hunter-ranch-makaha.github.io/site/media/posts/5/gallery/IMG_1826-thumbnail.png" alt="Night view " width="768" height="1025"></a></figure>
+<figure class="gallery__item"><a href="https://hunter-ranch-makaha.github.io/site/media/posts/5/gallery/IMG_2717.png" data-size="2049x1536"><img loading="lazy" src="https://hunter-ranch-makaha.github.io/site/media/posts/5/gallery/IMG_2717-thumbnail.png" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://hunter-ranch-makaha.github.io/site/media/posts/5/gallery/IMG_2719.png" data-size="2049x1536"><img loading="lazy" src="https://hunter-ranch-makaha.github.io/site/media/posts/5/gallery/IMG_2719-thumbnail.png" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://hunter-ranch-makaha.github.io/site/media/posts/5/gallery/IMG_2726.png" data-size="2049x1536"><img loading="lazy" src="https://hunter-ranch-makaha.github.io/site/media/posts/5/gallery/IMG_2726-thumbnail.png" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://hunter-ranch-makaha.github.io/site/media/posts/5/gallery/IMG_2882.png" data-size="2049x1536"><img loading="lazy" src="https://hunter-ranch-makaha.github.io/site/media/posts/5/gallery/IMG_2882-thumbnail.png" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://hunter-ranch-makaha.github.io/site/media/posts/5/gallery/IMG_3088.png" data-size="2049x1536"><img loading="lazy" src="https://hunter-ranch-makaha.github.io/site/media/posts/5/gallery/IMG_3088-thumbnail.png" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://hunter-ranch-makaha.github.io/site/media/posts/5/gallery/IMG_3207.png" data-size="2049x1536"><img loading="lazy" src="https://hunter-ranch-makaha.github.io/site/media/posts/5/gallery/IMG_3207-thumbnail.png" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://hunter-ranch-makaha.github.io/site/media/posts/5/gallery/IMG_3342.png" data-size="2049x1536"><img loading="lazy" src="https://hunter-ranch-makaha.github.io/site/media/posts/5/gallery/IMG_3342-thumbnail.png" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://hunter-ranch-makaha.github.io/site/media/posts/5/gallery/IMG_3597.png" data-size="1536x2049"><img loading="lazy" src="https://hunter-ranch-makaha.github.io/site/media/posts/5/gallery/IMG_3597-thumbnail.png" alt="" width="768" height="1025"></a></figure>
+<figure class="gallery__item"><a href="https://hunter-ranch-makaha.github.io/site/media/posts/5/gallery/IMG_3919.png" data-size="1536x2049"><img loading="lazy" src="https://hunter-ranch-makaha.github.io/site/media/posts/5/gallery/IMG_3919-thumbnail.png" alt="" width="768" height="1025"></a></figure>
+</div></div>
             ]]>
         </content>
     </entry>
