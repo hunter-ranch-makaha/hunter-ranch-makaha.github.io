@@ -3,12 +3,33 @@
     <title>Hunter Ranch Makaha</title>
     <link href="https://hunter-ranch-makaha.github.io/site/feed.xml" rel="self" />
     <link href="https://hunter-ranch-makaha.github.io/site" />
-    <updated>2023-07-05T10:07:41-10:00</updated>
+    <updated>2023-07-10T07:28:37-10:00</updated>
     <author>
         <name>Larisa Hunter</name>
     </author>
     <id>https://hunter-ranch-makaha.github.io/site</id>
 
+    <entry>
+        <title>Contact Us</title>
+        <author>
+            <name>Larisa Hunter</name>
+        </author>
+        <link href="https://hunter-ranch-makaha.github.io/site/contact-us.html"/>
+        <id>https://hunter-ranch-makaha.github.io/site/contact-us.html</id>
+
+        <updated>2023-07-10T07:28:37-10:00</updated>
+            <summary>
+                <![CDATA[
+                    Contact: Larisa Hunter Email: hunter.ranch.makaha@icloud.com Phone: 808-281-9999 Request a day via our&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Contact: Larisa Hunter<br>Email: <a href="mailto:hunter.ranch.makaha%40icloud.com">hunter.ranch.makaha@icloud.com</a><br>Phone: 808-281-9999<br><br>Request a day via our <a href="https://hunter-ranch-makaha.github.io/site/calendar.html">Calendar</a> and we will contact you for the required deposit. </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Photo Gallery</title>
         <author>
@@ -48,23 +69,17 @@
         <link href="https://hunter-ranch-makaha.github.io/site/calendar.html"/>
         <id>https://hunter-ranch-makaha.github.io/site/calendar.html</id>
 
-        <updated>2023-07-05T10:07:41-10:00</updated>
+        <updated>2023-07-10T07:24:30-10:00</updated>
             <summary>
                 <![CDATA[
-                    The dates listed as AVAILABLE are the only dates that are open&hellip;
+                    Email: hunter.ranch.makaha@icloud.com https://calendly.com/hunter-ranch
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>The dates listed as AVAILABLE are the only dates that are open for rentals, any other date is subject to the property owers discretion. If you require a specific date please contact: <a href="mailto:hunter.ranch.makaha%40icloud.com">hunter.ranch.makaha@icloud.com</a></p>
-<h1>2023</h1>
-<ol>
-<li>Augusts 4-6, 18-20</li>
-<li>September 1-3, 8-10, 22-24</li>
-<li>October 6-8, 13-15, 20-22</li>
-<li>November 3-5, 10-12, 24-26</li>
-<li>December 8-10, 15-17, 29-31</li>
-</ol>
+                <p>Email: <a href="mailto:hunter.ranch.makaha%40icloud.com">hunter.ranch.makaha@icloud.com</a></p>
+<p><a href="https://calendly.com/hunter-ranch">https://calendly.com/hunter-ranch</a></p>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -133,15 +148,10 @@
         <link href="https://hunter-ranch-makaha.github.io/site/rental-prices-and-options.html"/>
         <id>https://hunter-ranch-makaha.github.io/site/rental-prices-and-options.html</id>
 
-        <updated>2023-06-21T13:00:46-10:00</updated>
+        <updated>2023-07-10T07:28:14-10:00</updated>
             <summary>
                 <![CDATA[
-                    Hunter Ranch Makaha is available for rentals EVERY OTHER Friday, Saturday and&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="msg msg--highlight ">Hunter Ranch Makaha is available for rentals <strong>EVERY OTHER</strong> Friday, Saturday and Sunday. Full dates are available on our calendar page. Reservations are first come first serve and are confirmed once a deposit has been made. We require a 50% deposit 24 hours after booking to confirm your rental. Deposits by check will be confirmed once cleared.</p>
+                    <blockquote>Reservations are first come first serve and are confirmed once a deposit has been made. We require a 50% deposit 24 hours after booking to confirm your rental. Deposits by check will be confirmed once cleared.</blockquote>
 <h1>All Bronze Rentals include:</h1>
 <ol style="list-style-type: lower-alpha;">
 <li>Parking for up to 10 cars along the front and sides</li>
@@ -168,6 +178,40 @@
 <p class="msg msg--success">Full Day Rental: $2,000 for groups 101-150, $2,500 for groups 151-200</p>
 <p class="msg msg--success">Half Day Rentals: $1,200 for groups of 101-150, $1,800 for groups 151-200</p>
 <p>MAXIMUM of 250 guests at any time. Guests 201-250 will be charged $75.00 per guest</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <blockquote>Reservations are first come first serve and are confirmed once a deposit has been made. We require a 50% deposit 24 hours after booking to confirm your rental. Deposits by check will be confirmed once cleared.</blockquote>
+<h1>All Bronze Rentals include:</h1>
+<ol style="list-style-type: lower-alpha;">
+<li>Parking for up to 10 cars along the front and sides</li>
+<li>Use of the outdoor bar/eating area</li>
+<li>Use of the pool </li>
+<li>Use of the entire yard including the bathroom, manmade beach, sunlounging areas etc. within the fence border.</li>
+</ol>
+<p class="msg msg--success">Full Day Rental: $1,000.00 for a group up to 30 people</p>
+<p class="msg msg--success">Half Day Rentals: $500.00 for a group up to 30 people</p>
+<hr>
+<h1>All Gold Rentals Include:</h1>
+<ol style="list-style-type: lower-alpha;">
+<li>Parking for up to 10 cars along the front and sides</li>
+<li>Use of the outdoor bar/eating area</li>
+<li>Use of the pool</li>
+<li>Use of the entire yard including the bathroom, manmade beach, sunlounging areas etc. within the fence border.</li>
+<li>Use of the tiny house for changing/preping or staging of bridal parties or vip guests</li>
+</ol>
+<hr>
+<p class="msg msg--success">Full Day Rental: $1,800.00 for a group up to 100 people</p>
+<p class="msg msg--success">Half Day Rentals: $900.00 for a group up to 100 people</p>
+<hr>
+<h1>Parties over 100 people regardless of package type</h1>
+<p class="msg msg--success">Full Day Rental: $2,000 for groups 101-150, $2,500 for groups 151-200</p>
+<p class="msg msg--success">Half Day Rentals: $1,200 for groups of 101-150, $1,800 for groups 151-200</p>
+<p>MAXIMUM of 250 guests at any time. Guests 201-250 will be charged $75.00 per guest</p>
+
+<p>On the day of the rental, please arrive 15 minutes in advance of your booking time to finalize payment and gain access.</p>
             ]]>
         </content>
     </entry>
